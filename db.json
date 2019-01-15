@@ -1,0 +1,108 @@
+{
+  "Account": [
+    {
+      "id": "1",
+      "Email": "test1@mail.com",
+      "Password": "testpassword1",
+      "ConfirmPassword": "testpassword1",
+      "FirstName": "Firstname1",
+      "LastName": "Lastname1",
+      "BirthDate": "1991-01-10",
+      "RecruitementDate": "2011-01-10",
+      "Gender": "Male",
+      "Expertise": "Expertise1",
+      "Company": "Company1",
+      "CompanyFunction": "Companyfunction1",
+      "CompanyBranch": "Companybranch1",
+      "PhoneNumber": "1234567891",
+      "ProfilePicture": "",
+      "BusinessUnit": "ICT"
+    },
+    {
+      "id": "2",
+      "Email": "test2@mail.com",
+      "Password": "testpassword2",
+      "ConfirmPassword": "testpassword2",
+      "FirstName": "Firstname2",
+      "LastName": "Lastname2",
+      "BirthDate": "1992-01-10",
+      "RecruitementDate": "2012-02-10",
+      "Gender": "Female",
+      "Expertise": "Expertise2",
+      "Company": "Company2",
+      "CompanyFunction": "Companyfunction2",
+      "CompanyBranch": "Companybranch2",
+      "PhoneNumber": "1234567892",
+      "ProfilePicture": "",
+      "BusinessUnit": "Flex"
+    },
+    {
+      "id": "3",
+      "Email": "test3@mail.com",
+      "Password": "testpassword3",
+      "ConfirmPassword": "testpassword3",
+      "FirstName": "Firstname3",
+      "LastName": "Lastname3",
+      "BirthDate": "1993-01-10",
+      "RecruitementDate": "2013-02-10",
+      "Gender": "Male",
+      "Expertise": "Expertise3",
+      "Company": "Company3",
+      "CompanyFunction": "Companyfunction3",
+      "CompanyBranch": "Companybranch3",
+      "PhoneNumber": "1234567893",
+      "ProfilePicture": "",
+      "BusinessUnit": "Embedded"
+    },
+    {
+      "Email": "123",
+      "Password": "123",
+      "ConfirmPassword": "123",
+      "FirstName": "123",
+      "LastName": "123",
+      "BirthDate": "1990-03-21",
+      "RecruitementDate": "2018-02-04",
+      "Gender": "man",
+      "Expertise": "12",
+      "Company": "123",
+      "CompanyFunction": "123",
+      "CompanyBranch": "123",
+      "PhoneNumber": "123",
+      "ProfilePicture": "",
+      "BusinessUnit": "ict",
+      "id": "tjKBVyo"
+    }
+  ],
+  "NewsArticles": [
+    {
+      "id": "1",
+      "Title": "testtitle1",
+      "Text": "text text text1",
+      "Photo": "",
+      "Date": "2019-01-01",
+      "Type": "type1",
+      "BusinessUnit": "ICT",
+      "Person": "Person1"
+    },
+    {
+      "id": "2",
+      "Title": "testtitle2",
+      "Text": "text text text2",
+      "Photo": "",
+      "Date": "2019-01-02",
+      "Type": "type2",
+      "BusinessUnit": "Flex",
+      "Person": "Person2"
+    },
+    {
+      "id": "3",
+      "Title": "testtitle3",
+      "Text": "text text text3",
+      "Photo": "",
+      "Date": "2019-01-03",
+      "Type": "type3",
+      "BusinessUnit": "Embedded",
+      "Person": "Person3"
+    }
+  ]
+}
