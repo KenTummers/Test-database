@@ -104,5 +104,16 @@
       "BusinessUnit": "Embedded",
       "Person": "Person3"
     }
+  ],
+  "Events": [
+    {
+      "id": "1",
+      "location": "testlocatie1",
+      "description": "test descriptie 1",
+      "dresscode": "test dresscode 1",
+      "startTime": "2019-01-17T14:00:00.040Z",
+      "endTime": "2019-01-17T15:00:00.040Z",
+      "allDay": false
+    }
   ]
 }
