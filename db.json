@@ -71,49 +71,71 @@
       "ProfilePicture": "",
       "BusinessUnit": "ict",
       "id": "tjKBVyo"
+    },
+    {
+      "Email": "test",
+      "Password": "123",
+      "ConfirmPassword": "123",
+      "FirstName": "test",
+      "LastName": "test",
+      "BirthDate": "1994-02-05",
+      "RecruitementDate": "2017-02-05",
+      "Gender": "man",
+      "Company": "test",
+      "ProfilePicture": "",
+      "BusinessUnit": "ict",
+      "id": "kwWXU4N"
     }
   ],
   "NewsArticles": [
     {
-      "id": "1",
-      "Title": "testtitle1",
-      "Text": "text text text1",
-      "Photo": "",
+      "Title": "Test artikel 1",
+      "Text": "Test text 1",
       "Date": "2019-01-01",
-      "Type": "type1",
-      "BusinessUnit": "ICT",
-      "Person": "Person1"
+      "Type": "Type 1",
+      "BusinessUnit": "ict",
+      "Person": "auteur",
+      "id": "kfypRqr"
     },
     {
-      "id": "2",
-      "Title": "testtitle2",
-      "Text": "text text text2",
-      "Photo": "",
+      "Title": "Test artikel 2",
+      "Text": "Test text 2",
       "Date": "2019-01-02",
-      "Type": "type2",
-      "BusinessUnit": "Flex",
-      "Person": "Person2"
+      "Type": "Type 2",
+      "BusinessUnit": "embedded",
+      "Person": "auteur",
+      "id": "UWIU4Tv"
     },
     {
-      "id": "3",
-      "Title": "testtitle3",
-      "Text": "text text text3",
-      "Photo": "",
+      "Title": "Test artikel 3",
+      "Text": "Test text 3",
       "Date": "2019-01-03",
-      "Type": "type3",
-      "BusinessUnit": "Embedded",
-      "Person": "Person3"
+      "Type": "Type 3",
+      "BusinessUnit": "flex",
+      "Person": "auteur",
+      "id": "ZArpwrf"
     }
   ],
   "Events": [
     {
-      "id": "1",
-      "location": "testlocatie1",
-      "description": "test descriptie 1",
-      "dresscode": "test dresscode 1",
-      "startTime": "2019-01-17T14:00:00.040Z",
-      "endTime": "2019-01-17T15:00:00.040Z",
-      "allDay": false
+      "Title": "Test event",
+      "Location": "Test locatie",
+      "Description": "Test info",
+      "Dresscode": "Test dresscode",
+      "startTime": "2019-01-31T15:00:00+01:00",
+      "endTime": "2019-01-31T20:00:00+01:00",
+      "allDay": false,
+      "id": "RpCjkmt"
+    },
+    {
+      "Title": "Test event 2",
+      "Location": "Test locatie 2",
+      "Description": "Test info 2",
+      "Dresscode": "Test dresscode 2",
+      "startTime": "2019-02-25T12:00:00+01:00",
+      "endTime": "2019-02-25T16:00:00+01:00",
+      "allDay": false,
+      "id": "QiUVPmL"
     }
   ]
 }
